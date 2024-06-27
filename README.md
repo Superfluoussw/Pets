@@ -1,17 +1,7 @@
 ### 项目概述
 *一个基于springboot的宠物领养管理系统*  
 项目地址http://117.50.5.166
-### 开发环境
-|工具|版本|
-|-|-|
-|os|Windows 10|
-|jdk|1.8|
-|IDE|IntelliJ IDEA 2020.2|
-|Boostrap|4|
-|MySql|5.1.47|
-|Maven|3.6.0|
 
-### 功能介绍
 - 用户可以注册登录修改个人资料，在网站上进行宠物的领养申请操作
 - 管理员可以登录后台对宠物、用户的信息进行CRUD。同时对申请的领养信息进行审批。
 
@@ -36,7 +26,3 @@
 ![pet](http://rlw.cn-bj.ufileos.com/%2FpetAdoption%2Fpet.PNG?UCloudPublicKey=3xeS246CmmzEiKl4GZUEKG2BBLDOssOzPyT3yvJFy&Signature=RIMJK3V4EPrMR%2Bs05Ae4qh%2BBLDk%3D&Expires=1603026513)
 - *申请领养*
 ![adoption](http://rlw.cn-bj.ufileos.com/%2FpetAdoption%2Fapply.PNG?UCloudPublicKey=3xeS246CmmzEiKl4GZUEKG2BBLDOssOzPyT3yvJFy&Signature=E%2BE1bx%2F7Fd6GPcWWS140Ls95k0g%3D&Expires=1603026533)
-
-### ER图
-*(数据表之间没有约束关系，数据类型上也偷懒了)*
-![ER图](http://rlw.cn-bj.ufileos.com/%2FpetAdoption%2FER%E5%9B%BE.PNG?UCloudPublicKey=3xeS246CmmzEiKl4GZUEKG2BBLDOssOzPyT3yvJFy&Signature=DDJ1d62J3vFsGV0puseHV8wTMYU%3D&Expires=1603026878)
